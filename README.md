@@ -14,7 +14,7 @@
 * How's the price ranging in different property_type and room_type?
 
 3. Files inlcuded
-* Airbhb-Data_Project: a python jupyter notebook that analyses the factors affecting the prices of Airbnbs in seattle. 
+* Airbnb Project: a python jupyter notebook that analyses the factors affecting the prices of Airbnbs in seattle. 
 * listings.csv: Dataset of Airbnb in Seattle necessary for analysis
 * Other data can be found at [https://www.kaggle.com/airbnb/seattle]
 
